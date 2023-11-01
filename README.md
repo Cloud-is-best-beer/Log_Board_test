@@ -19,7 +19,12 @@
 [맥주는 클라우드](https://open.kakao.com/o/go5bIMPf)
 
 # 일정
+
 |타이틀|기간|비고|
 |---|---|---|
 |**기간**| 2023-11-06 ~ 2023-12-08 | 상의 후 변동가능 |
 |**OT 날짜**| 2023-11-03 (금요일) 18:00~18:20 | 간단한 소개 예정 |
+
+# [Resouce](https://github.com/Cloud-is-best-beer/Project_Info/edit/main)
+
+Flask 설정법, Github 사용법을 간단히 정리해 봤으니 도움이 되길 바랍니다.
