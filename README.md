@@ -3,6 +3,7 @@
 간단한 게시판을 만드는 프로젝트 입니다. Flask를 사용하여 로그인 기능, 게시글 작성 및 확인 기능, 회원 권한으로 게시글 작성 기능을 구현합니다.
 <br>위와 같은 기능을 만들기 위해 필요한 사항들을 공유하기 위해서 간단한 자료실로 사용할 예정입니다.
 
+
 # Github org
 
 [Cloud-is-best-beer](https://github.com/Cloud-is-best-beer)에서 각자의 Repository를 만들어서 각자의 프로젝트를 진행하려고 합니다.
@@ -29,6 +30,7 @@
 | 화요모임 주제 | 프로젝트 상황 공유 및 정보 공유 | 프로젝트 진행하다 막히는(막혔던) 부분을 서로 공유합니다. |
 | 금요모임 주제 | 프로젝트 코드리뷰 | 각자의 프로그램을 리뷰합니다. 복붙은 되지만, 모르시면 안됩니다. |
 
-# [Resouce](https://github.com/Cloud-is-best-beer/Project_Info/tree/main/resource)
+# [Resouㅐce](https://github.com/Cloud-is-best-beer/Project_Info/tree/main/resource)
 
 Flask 설정법, Github 사용법을 간단히 정리해 봤으니 도움이 되길 바랍니다.
+<br>혹시 공유하고 싶은 자료가 있다면 Resource에 공유하셔도 되요!
