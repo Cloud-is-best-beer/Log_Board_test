@@ -5,3 +5,6 @@
 
 ### 플라스크 공식 문서
 [link](https://flask.palletsprojects.com/en/3.0.x/)
+
+### SQLite 사용법 ipynb
+[github link](https://github.com/jiyeoon/aiffel/blob/master/Week5/Fundamental20.ipynb)
