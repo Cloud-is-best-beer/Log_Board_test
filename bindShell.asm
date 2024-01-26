@@ -37,7 +37,7 @@ Disassembly of section .text:            // GDB 원문
   4000bf:	75 f8                	jne    0x4000b9
   4000c1:	f7 e6                	mul    %esi
   4000c3:	52                   	push   %rdx
-  4000c4:	48 bb 2f 62 69 6e 2f 	movabs $0x68732f2f6e69622f,%rbx
+  4000c4:	48 bb 2f 62 69 6e 2f 	movabs $0x68732f2f6e69622f,%rbx // $0x~ = '/bin//sh'
   4000cb:	2f 73 68 
   4000ce:	53                   	push   %rbx
   4000cf:	48 8d 3c 24          	lea    (%rsp),%rdi
