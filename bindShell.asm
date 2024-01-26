@@ -44,7 +44,8 @@ Disassembly of section .text:            // GDB 원문
   4000d3:	b0 3b                	mov    $0x3b,%al
   4000d5:	0f 05                	syscall
 
-
+pushq 등의 'q'에 대한 설명
+ - 데이터 사이즈를 의미함
 b = 1  byte
 w = 2  word
 l = 4  double word
